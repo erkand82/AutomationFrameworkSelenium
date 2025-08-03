@@ -2,9 +2,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Java CI with Maven on Windows](https://github.com/anhtester/AutomationFrameworkSelenium/actions/workflows/maven.yml/badge.svg)](https://github.com/anhtester/AutomationFrameworkSelenium/actions/workflows/maven.yml)
 
-## Test Automation Framework using Selenium Java and TestNG building by Anh Tester
-
-### **💥Important**: when clone this repo, you should select '**Recursive**' to get all submodules
+## Test Automation Framework using Selenium Java and TestNG 
 
 🔆 **SOME FEATURES IN FRAMEWORK**
 
@@ -167,14 +165,6 @@
   Get: https://api.telegram.org/bot{token}/getUpdates ⇒ chat.id
 - Example: https://api.telegram.org/bot19468772:AAHtlc_BH8zlJAGDHuTJy3J72XumY5LxWcE/getUpdates
 
-```
-"chat": {
-    "id": 123456789,
-    "first_name": "Anh Tester",
-    "username": "anhtester",
-    "type": "private"
-}
-```
 
 **14. Use Selenium Grid**
 
@@ -212,8 +202,6 @@ https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers
 > java -jar selenium-server-4.22.0.jar node --port 7778
 
 
-**📝 NOTE: Thực thi nhiều lệnh thì mở nhiều CMD**
-
 ### Edit Grid in Config.properties
 
 > TARGET=remote
@@ -231,7 +219,6 @@ https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers
 **15. Use DataFaker and JavaFaker to generate data**
 
 Document DataFaker: https://www.datafaker.net/documentation/getting-started/
-or of Anh Tester blog: https://anhtester.com/blog/selenium-java/tao-du-lieu-gia-voi-datafaker
 
 ### 🔆 Project structure
 
@@ -586,12 +573,6 @@ or of Anh Tester blog: https://anhtester.com/blog/selenium-java/tao-du-lieu-gia-
  ┣ 📜pom.xml
  ┗ 📜README.md
 ```
-
-## ⭐️ I will support your company if needed
-
-### 📗 Documents: https://deepwiki.com/anhtester/AutomationFrameworkSelenium
-
-## Copyright 2022-2025 Anh Tester
 
 > Anh Tester Blog: https://anhtester.com/
 
